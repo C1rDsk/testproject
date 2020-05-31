@@ -1,0 +1,2 @@
+D:\projects\VisualStudio\mylab\nastya\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\projects\VisualStudio\mylab\nastya\ConsoleApplication1\Debug\ConsoleApplication1.pdb
